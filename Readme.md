@@ -2,7 +2,7 @@
  :<: Projeto em construção da Turma T8 :>:
 </h4>
 
-# :hammer: Funcionalidades do projetos demonstradas
+# 💻 Funcionalidades do projetos demonstradas
 
 - Interações de click
 - Verificação para conter determinado conteúdo ou não
