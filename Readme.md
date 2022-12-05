@@ -1,5 +1,5 @@
 <h4 align="center"> 
- :construction: Projeto em construção da Turma T8 :construction:
+ :<: Projeto em construção da Turma T8 :>:
 </h4>
 
 # :hammer: Funcionalidades do projetos demonstradas
